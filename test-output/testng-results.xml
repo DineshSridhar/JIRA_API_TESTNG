@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="5496" started-at="2020-05-19T08:44:43Z" finished-at="2020-05-19T08:44:48Z">
+  <suite name="Suite" duration-ms="5061" started-at="2020-05-20T05:02:05Z" finished-at="2020-05-20T05:02:10Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="5496" started-at="2020-05-19T08:44:43Z" finished-at="2020-05-19T08:44:48Z">
+    <test name="Test" duration-ms="5061" started-at="2020-05-20T05:02:05Z" finished-at="2020-05-20T05:02:10Z">
       <class name="org.test.jira.IssueAPI.GetIssueDetails">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:org.test.jira.IssueAPI.GetIssueDetails@201a4587]" name="setUp" is-config="true" duration-ms="137" started-at="2020-05-19T08:44:48Z" finished-at="2020-05-19T08:44:48Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.test.jira.IssueAPI.GetIssueDetails@201a4587]" name="setUp" is-config="true" duration-ms="111" started-at="2020-05-20T05:02:09Z" finished-at="2020-05-20T05:02:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="GetIssueTest()[pri:0, instance:org.test.jira.IssueAPI.GetIssueDetails@201a4587]" name="GetIssueTest" duration-ms="91" started-at="2020-05-19T08:44:48Z" finished-at="2020-05-19T08:44:48Z">
+        <test-method status="PASS" signature="GetIssueTest()[pri:0, instance:org.test.jira.IssueAPI.GetIssueDetails@201a4587]" name="GetIssueTest" duration-ms="186" started-at="2020-05-20T05:02:09Z" finished-at="2020-05-20T05:02:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- GetIssueTest -->
       </class> <!-- org.test.jira.IssueAPI.GetIssueDetails -->
       <class name="org.test.jira.IssueAPI.CreateIssue">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:org.test.jira.IssueAPI.CreateIssue@47e2e487]" name="setUp" is-config="true" duration-ms="4510" started-at="2020-05-19T08:44:43Z" finished-at="2020-05-19T08:44:47Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.test.jira.IssueAPI.CreateIssue@47e2e487]" name="setUp" is-config="true" duration-ms="3966" started-at="2020-05-20T05:02:05Z" finished-at="2020-05-20T05:02:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="CreateIssueTest()[pri:0, instance:org.test.jira.IssueAPI.CreateIssue@47e2e487]" name="CreateIssueTest" duration-ms="388" started-at="2020-05-19T08:44:47Z" finished-at="2020-05-19T08:44:48Z">
+        <test-method status="PASS" signature="CreateIssueTest()[pri:0, instance:org.test.jira.IssueAPI.CreateIssue@47e2e487]" name="CreateIssueTest" duration-ms="385" started-at="2020-05-20T05:02:09Z" finished-at="2020-05-20T05:02:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CreateIssueTest -->
       </class> <!-- org.test.jira.IssueAPI.CreateIssue -->
       <class name="org.test.jira.IssueAPI.DeleteIssue">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:org.test.jira.IssueAPI.DeleteIssue@61001b64]" name="setUp" is-config="true" duration-ms="111" started-at="2020-05-19T08:44:48Z" finished-at="2020-05-19T08:44:48Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.test.jira.IssueAPI.DeleteIssue@61001b64]" name="setUp" is-config="true" duration-ms="184" started-at="2020-05-20T05:02:10Z" finished-at="2020-05-20T05:02:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="DeleteIssueTest()[pri:0, instance:org.test.jira.IssueAPI.DeleteIssue@61001b64]" name="DeleteIssueTest" duration-ms="73" started-at="2020-05-19T08:44:48Z" finished-at="2020-05-19T08:44:48Z">
+        <test-method status="PASS" signature="DeleteIssueTest()[pri:0, instance:org.test.jira.IssueAPI.DeleteIssue@61001b64]" name="DeleteIssueTest" duration-ms="89" started-at="2020-05-20T05:02:10Z" finished-at="2020-05-20T05:02:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DeleteIssueTest -->

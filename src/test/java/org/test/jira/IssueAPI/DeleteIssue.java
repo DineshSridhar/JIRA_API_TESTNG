@@ -1,5 +1,7 @@
 package org.test.jira.IssueAPI;
 
+import static org.testng.Assert.assertEquals;
+
 import org.jira.Base.BaseTest;
 import org.jira.utilis.APIConfigResp;
 import org.testng.annotations.Test;
@@ -9,7 +11,7 @@ import static io.restassured.RestAssured.*;
 public class DeleteIssue extends BaseTest {
 
 	String endpoint="/rest/api/2/issue/{issueKey}";
-    String issuekey="AP-22";
+    String issuekey="AP-12";
     
     @Test
     public void DeleteIssueTest()
@@ -25,7 +27,7 @@ public class DeleteIssue extends BaseTest {
     	                        .statusCode(APIConfigResp.DELETE_RESPONSE_CODE);
     	                        
     	                
-                      
+                      assertEquals(APIConfigResp.DELETE_RESPONSE_CODE, 204);
     	                        
     	                
     	

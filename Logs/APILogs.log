@@ -42,3 +42,13 @@
 [INFO ] 19-05-2020 14:14:48.523 [main] LoginToJira - Successfully Executed LoginAPI
 [INFO ] 19-05-2020 14:14:48.621 [main] GetIssueDetails - Details fetched Successfully for Issue
 [INFO ] 19-05-2020 14:14:48.732 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 10:24:35.287 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 10:24:37.079 [main] CreateIssue - Successfully completed CreateIssue Request
+[INFO ] 20-05-2020 10:24:37.333 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 10:24:37.489 [main] GetIssueDetails - Details fetched Successfully for Issue
+[INFO ] 20-05-2020 10:24:37.590 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 10:32:09.270 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 10:32:09.719 [main] CreateIssue - Successfully completed CreateIssue Request
+[INFO ] 20-05-2020 10:32:09.855 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 10:32:10.042 [main] GetIssueDetails - Details fetched Successfully for Issue
+[INFO ] 20-05-2020 10:32:10.244 [main] LoginToJira - Successfully Executed LoginAPI

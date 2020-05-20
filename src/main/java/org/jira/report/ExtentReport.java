@@ -45,7 +45,7 @@ public class ExtentReport implements ITestListener {
 	 
 	    @Override
 	    public synchronized void onFinish(ITestContext context) {
-	        System.out.println(("***Extent Reports Jira API Test Suite started***"));
+	        System.out.println(("***Extent Reports Jira API Test Suite Finished***"));
 	        extent.flush();
 	    }
 	 
